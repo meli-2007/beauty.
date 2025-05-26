@@ -1,0 +1,44 @@
+body{
+	font-family: "comic sans";
+	background:url('https://i.pinimg.com/736x/d2/ef/3f/d2ef3f34a747d1b57e0203a4f5a59557.jpg');
+	background-repeat: repeat;
+}
+h1,p{
+	color: #000000;
+	text-align: center;
+}
+div{
+	width: 60%;
+	height: 500px;
+	background: #ffffff;
+	margin: auto;
+}
+.textoRemarcado{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #880e4f;
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a{
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+
+.menu li a:hover{
+	background: #333;
+}
+

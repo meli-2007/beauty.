@@ -1,0 +1,66 @@
+body{
+	font-family: Arial, sans-serif, Helvetica;
+	background: #e8e8e8;
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a{
+	color:#fff;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+
+
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+
+ body{
+ 	background: #000500;
+ }
+
+ .galeria{
+ 	width: 100%;
+ }
+
+ .galeria img{
+ 	vertical-align: text-top;
+ 	width: 400px;
+ 	margin: 20px;
+ 	padding: 5px;
+ 	opacity: 0.5;
+ 	border: 1px solid #484848;
+ }
+
+ .galeria img:hover{
+ 	border: 1px solid #fff;
+ 	opacity: 1;
+
+ 	
+ }
+ 
